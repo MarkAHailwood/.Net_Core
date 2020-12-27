@@ -1,0 +1,17 @@
+C:\Users\hmark\source\repos\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\hmark\source\repos\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\hmark\source\repos\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.deps.json
+C:\Users\hmark\source\repos\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.runtimeconfig.json
+C:\Users\hmark\source\repos\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.runtimeconfig.dev.json
+C:\Users\hmark\source\repos\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.dll
+C:\Users\hmark\source\repos\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.pdb
+C:\Users\hmark\source\repos\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\OdeToFood.Core.dll
+C:\Users\hmark\source\repos\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\OdeToFood.Core.pdb
+C:\Users\hmark\source\repos\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Users\hmark\source\repos\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Users\hmark\source\repos\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.AssemblyInfo.cs
+C:\Users\hmark\source\repos\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\hmark\source\repos\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.csproj.CopyComplete
+C:\Users\hmark\source\repos\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.dll
+C:\Users\hmark\source\repos\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.pdb
+C:\Users\hmark\source\repos\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.genruntimeconfig.cache
